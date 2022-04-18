@@ -15,16 +15,16 @@ Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 ## Preview of the Webpage
 Main Page
-![preview1](public\preview1.png)
+![preview1](/public/preview1.png)
 
 Change Theme Color
-![preview5](public\preview5.png)
+![preview5](/public/preview5.png)
 
 Create the New Recipe
-![preview2](public\preview2.png)
+![preview2](/public/preview2.png)
 
 Dark Mode in Main Page
-![preview3](public\preview3.png)
+![preview3](/public/preview3.png)
 
 Dark Mode in Recipe Detail Page
-![preview4](public\preview4.png)
+![preview4](/public/preview4.png)
