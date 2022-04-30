@@ -13,6 +13,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 The app will be runned in the development mode.\
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
+This project is developed in Javascript with the framework of React. JSON is selected as the data storage technics for this project. Other applied technics including CSS and HTML.
+
 ## Preview of the Webpage
 Main Page
 ![preview1](/public/preview1.png)
